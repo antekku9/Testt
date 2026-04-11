@@ -257,7 +257,7 @@ export default function BeansCardAnimation() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5, delay: 7.8 }}
           >
-            NIP: 164 100
+            164 100
           </motion.div>
         </motion.div>
       </div>
